@@ -32,7 +32,8 @@
   },
   "peerDependencies": {
     "react-native": "*",
-    "react-navigation": "*"
+    "@react-navigation/native": "*",
+    "@react-navigation/stack": "*"
   },
   "devDependencies": {
     "babel-preset-expo": "^5.0.0",
