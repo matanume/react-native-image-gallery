@@ -28,7 +28,6 @@
     "prop-types": "^15.6.2",
     "react-redux": "^4.4.5",
     "react-timer-mixin": "^0.13.4",
-    
     "redux": "^3.5.2"
   },
   "peerDependencies": {
@@ -36,8 +35,7 @@
     "@react-navigation/native": "*",
     "@react-navigation/stack": "*",
     "@react-navigation/elements": "*",
-    "react-native-pager-view": "*",
-        
+    "react-native-pager-view": "*"
   },
   "devDependencies": {
     "babel-preset-expo": "^5.0.0",
